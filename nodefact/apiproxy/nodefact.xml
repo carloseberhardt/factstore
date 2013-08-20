@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="1" name="nodefact">
+    <ConfigurationVersion minorVersion="0" majorVersion="4"/>
+    <CreatedAt>1376081917970</CreatedAt>
+    <CreatedBy>carlos@apigee.com</CreatedBy>
+    <Description>nodefact</Description>
+    <DisplayName>nodefact</DisplayName>
+    <LastModifiedAt>1376081918310</LastModifiedAt>
+    <LastModifiedBy>carlos@apigee.com</LastModifiedBy>
+    <Policies/>
+    <ProxyEndpoints/>
+    <Resources/>
+    <TargetServers/>
+    <TargetEndpoints/>
+</APIProxy>

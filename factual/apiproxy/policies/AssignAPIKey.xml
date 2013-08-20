@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<AssignMessage enabled="true" continueOnError="false" async="false" name="AssignAPIKey">
+    <DisplayName>AssignAPIKey</DisplayName>
+    <FaultRules/>
+    <Properties/>
+    <Add>
+        <QueryParams>
+            <QueryParam name="KEY">YOUR_KEY_HERE</QueryParam>
+        </QueryParams>
+    </Add>
+    <IgnoreUnresolvedVariables>true</IgnoreUnresolvedVariables>
+    <AssignTo createNew="false" transport="http" type="request"></AssignTo>
+</AssignMessage>

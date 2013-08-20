@@ -1,0 +1,17 @@
+{
+  "name": "nodefact",
+  "version": "0.0.0",
+  "description": "nodefact",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private": true,
+  "repository": "",
+  "author": "carlos@apigee.com",
+  "license": "BSD",
+  "dependencies": {
+    "request": "~2.26.0",
+    "usergrid": "~0.10.5"
+  }
+}
